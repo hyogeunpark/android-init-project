@@ -1,0 +1,3 @@
+include ':android-init-project'
+include ':app'
+rootProject.name = "AndroidInitProjectSample"
